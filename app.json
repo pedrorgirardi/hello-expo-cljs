@@ -3,7 +3,7 @@
     "name": "hello-expo-cljs",
     "description": "No description",
     "slug": "hello-expo-cljs",
-    "sdkVersion": "26.0.0",
+    "sdkVersion": "27.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
